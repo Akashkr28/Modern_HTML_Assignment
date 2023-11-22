@@ -1,0 +1,50 @@
+1. List out the features of HTML5 ?
+
+Ans:- HTML5, the fifth revision of the Hypertext Markup Language, brought several new features and enhancements to web development. Here are some of the key features of HTML5:
+
+1. Semantic Elements:
+   - Introduces new semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, and `<aside>` to better define the structure of a web page.
+
+2. Audio and Video Support:
+   - Native support for embedding audio and video content using `<audio>` and `<video>` tags, reducing the reliance on third-party plugins like Flash.
+
+3. Canvas:
+   - The `<canvas>` element provides a drawing surface for 2D graphics and allows dynamic rendering of shapes, images, and other visual elements using JavaScript.
+
+4. Local Storage:
+   - The `localStorage` and `sessionStorage` APIs allow web applications to store data locally on the user's device, providing a way to persist data between sessions.
+
+5. Geolocation:
+   - HTML5 supports geolocation, enabling websites to request and obtain the user's geographic location through the Geolocation API.
+
+6. Web Storage:
+   - Apart from local storage, HTML5 introduced the Web Storage API, which includes `localStorage` and `sessionStorage` to store key/value pairs in a more flexible manner than cookies.
+
+7. Responsive Design:
+   - HTML5 encourages responsive web design through features like the `<meta>` viewport tag, which helps in building websites that adapt to various screen sizes and devices.
+
+8. Web Workers:
+   - Introduces the concept of Web Workers, which allows scripts to run in the background, enabling multi-threaded processing and improving the performance of web applications.
+
+9. WebSockets:
+   - Provides a full-duplex communication channel over a single, long-lived connection, allowing for real-time data transfer between the client and server.
+
+10. Drag and Drop:
+    - HTML5 includes native support for drag-and-drop operations, making it easier to implement interactive and user-friendly interfaces.
+
+11. Form Controls:
+    - New input types such as `email`, `url`, `tel`, `number`, `date`, and `color` enhance form handling and validation.
+
+12. New Attributes:
+    - Introduces new attributes like `async` and `defer` for controlling the execution of scripts, and `placeholder` for providing hints in form fields.
+
+13. New Doctype:
+    - HTML5 uses a simplified, shorter `<!DOCTYPE html>` declaration at the beginning of the HTML document.
+
+14. Offline Web Applications:
+    - The Application Cache (AppCache) feature allows web applications to work offline by caching resources locally.
+
+15. Accessibility Improvements:
+    - Enhanced support for accessibility features, including the ability to use ARIA (Accessible Rich Internet Applications) attributes for better semantic markup.
+
+These features collectively contribute to a more modern and efficient web development experience, fostering better interactivity, multimedia support, and improved performance. Keep in mind that HTML5 is often used in conjunction with CSS3 and JavaScript to create comprehensive web applications.
